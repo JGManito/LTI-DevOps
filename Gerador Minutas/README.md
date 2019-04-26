@@ -2,7 +2,7 @@
 
 Este programa serve para gerar minutas e orçamentos em PDF. 
 
-Este programa é para ser desenvolvido em Python 3, podendo usar quaisquer bibliotecas, mas estas devem ser mantidas ao mínimo possível para diminuir entropia nas dependências. O código deve usar extensivamente comentários, e a criação de funções especializadas ("black boxes") é altamente aconselhada.
+Este programa é para ser desenvolvido em Python 3, podendo usar quaisquer bibliotecas, mas estas devem ser mantidas ao mínimo possível para diminuir entropia nas dependências. O código deve usar extensivamente comentários, e a criação de funções especializadas ("black boxes") é altamente aconselhada, mas deve ser feita de forma lógica.
 
 O desenvolvimento do mesmo está dividido nas seguintes fases:
 
