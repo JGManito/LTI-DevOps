@@ -1,4 +1,4 @@
-#Gerador de Minutas
+# Gerador de Minutas
 
 Este programa serve para gerar minutas e orçamentos em PDF. 
 
