@@ -7,18 +7,18 @@ Este programa é para ser desenvolvido em Python 3, podendo usar quaisquer bibli
 O desenvolvimento do mesmo está dividido nas seguintes fases:
 
 - [ ] Proof of concept - Termo de responsabilidade de empréstimos (Desnecessária interface gráfica, basta CLI)
-      - [ ] Recebe do utilizador os seguintes campos:
+       - [ ] Recebe do utilizador os seguintes campos:
             - Nome do colaborador
             - Material a ser emprestado
             - Nome, número de aluno e contacto da pessoa que requisitou o material
             - Data e hora de levantamento (perguntando se quer usar a data/hora do sistema)
             - Data e hora prevista para entrega
-      - [ ] Gera campos para preencher após impressão para:
+       - [ ] Gera campos para preencher após impressão para:
             - Dia e hora de entrega
             - Colaborador a quem foi entregue o material
             - Assinatura
-      - [ ] Imprime no ficheiro o texto do termo de responsabilidade
-      - [ ] Gerar um PDF simples para testar o funcionamento correcto do mesmo
+       - [ ] Imprime no ficheiro o texto do termo de responsabilidade
+       - [ ] Gerar um PDF simples para testar o funcionamento correcto do mesmo
       
 - [ ] Fase 1 - Gerador de orçamentos (Desnecessária interface gráfica, basta CLI)
       - [ ] Recebe do utilizador os seguintes dados:
